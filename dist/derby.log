@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Sep 14 13:06:50 ICT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0141-1b14-303a-000000853748 
+on database directory C:\Absensi\Data  with class loader sun.misc.Launcher$AppClassLoader@6e1408 
+Loaded from file:/C:/Absensi/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=C:\Absensi\dist
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
